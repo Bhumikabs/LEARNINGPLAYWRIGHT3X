@@ -20,4 +20,5 @@ var Bhumika = "string"; // valid way to write identifier
 
 var Bhumika1 = "string"; // valid way to write identifier
 
-var Bhumika$ = "string"; // valid way to write identifier
+var Bhumika$ = "string"; 
+console.log(Bhumika$); // valid way to write identifier
